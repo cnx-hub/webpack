@@ -1,0 +1,23 @@
+{
+  "name": "chajian",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/plugin-transform-arrow-functions": "^7.16.7",
+    "@babel/plugin-transform-block-scoping": "^7.16.7",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.3",
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^10.2.4",
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "postcss-loader": "^6.2.1",
+    "postcss-preset-env": "^7.4.3",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.70.0"
+  }
+}
